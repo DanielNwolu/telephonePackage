@@ -2,6 +2,11 @@
 
 A command-line interface application for managing phone numbers with real-time dialing notifications.
 
+## Demo
+```
+https://replit.com/@nwoludanielc/telephonePackage
+```
+
 ## Features
 
 - Add and store phone numbers
