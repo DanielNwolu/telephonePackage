@@ -20,8 +20,8 @@ A command-line interface application for managing phone numbers with real-time d
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd telephone-package-cli
+git clone https://github.com/DanielNwolu/telephonePackage.git
+cd telephonePackage
 ```
 
 2. Install dependencies:
